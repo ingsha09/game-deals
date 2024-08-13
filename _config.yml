@@ -1,8 +1,7 @@
-title: Pixel Proton
-     description: Games deal
-     url: "https://<ingsha09>.github.io/<ingsha09>"
-     baseurl: "/<your-repo>" # Remove this line if deploying to the root of a custom domain
-     theme: minima
+title: "My Awesome Site"
+description: "A description of your site"
+url: "https://<ingsha09>.github.io/<game-deals>"
+baseurl: "/<game-deals>" # Remove this line if deploying to the root of a custom domain
+theme: minima
 
-     # Build settings
-     markdown: kramdown
+markdown: kramdown
